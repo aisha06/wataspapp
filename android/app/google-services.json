@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081235498424",
+    "project_id": "watsapdemo",
+    "storage_bucket": "watsapdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081235498424:android:9989471483e92190611b4d",
+        "android_client_info": {
+          "package_name": "com.example.watsap_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMH1ouAvbh-7CYl2mQZkuiy2cdUMU6NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
