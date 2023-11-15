@@ -65,7 +65,8 @@ class InboxView extends StatelessWidget {
     ids.sort();
     String chatroomId = ids.join("");
     log('${chatroomId}');
-    return FirebaseFirestore.instance
+    return FirebaseFirestore.
+    instance
         .collection('chats_room')
         .doc(chatroomId)
         .collection('message')
